@@ -73,13 +73,13 @@ pre {
 
 a,
 a:visited {
-  color: #01ff70;
+  color: #5B9279;
 }
 
 a:hover,
 a:focus,
 a:active {
-  color: #2ecc40;
+  color: #5B9279;
 }
 
 .retro-no-decoration {
@@ -108,6 +108,7 @@ body {
 
 p,
 .retro-p {
+  font-family: "Roboto", sans-serif;
   font-size: 1rem;
   margin-bottom: 1.3rem;
 }
@@ -129,36 +130,43 @@ h1,
 .retro-h1 {
   margin-top: 0;
   font-size: 3.998rem;
+  font-family: "Ubuntu", sans-serif;
 }
 
 h2,
 .retro-h2 {
   font-size: 2.827rem;
+  font-family: "Ubuntu", sans-serif;
 }
 
 h3,
 .retro-h3 {
   font-size: 1.999rem;
+  font-family: "Ubuntu", sans-serif;
 }
 
 h4,
 .retro-h4 {
   font-size: 1.414rem;
+  font-family: "Ubuntu", sans-serif;
 }
 
 h5,
 .retro-h5 {
   font-size: 1.121rem;
+  font-family: "Ubuntu", sans-serif;
 }
 
 h6,
 .retro-h6 {
   font-size: .88rem;
+  font-family: "Ubuntu", sans-serif;
 }
 
 small,
 .retro-small {
   font-size: .707em;
+  font-family: "Ubuntu", sans-serif;
 }
 
 /* https://github.com/mrmrs/fluidity */
@@ -175,7 +183,7 @@ textarea {
 
 html,
 body {
-  background-color: #222;
+  background-color: #110B11;
   min-height: 100%;
 }
 
@@ -184,8 +192,7 @@ html {
 }
 
 body {
-  color: #fafafa;
-  font-family: "Courier New";
+  color: #FEFCFD;
   line-height: 1.45;
   margin: 6rem auto 1rem;
   max-width: 48rem;
@@ -193,10 +200,10 @@ body {
 }
 
 pre {
-  background-color: #333;
+  background-color: #110B11;
 }
 
 blockquote {
-  border-left: 3px solid #01ff70;
+  border-left: 3px solid #5B9279;
   padding-left: 1rem;
 }
