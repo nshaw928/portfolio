@@ -73,13 +73,13 @@ pre {
 
 a,
 a:visited {
-  color: #5B9279;
+  color: #4B8161;
 }
 
 a:hover,
 a:focus,
 a:active {
-  color: #5B9279;
+  color: #4B8161;
 }
 
 .retro-no-decoration {
@@ -183,7 +183,7 @@ textarea {
 
 html,
 body {
-  background-color: #110B11;
+  background-color: #07020D;
   min-height: 100%;
 }
 
@@ -200,10 +200,10 @@ body {
 }
 
 pre {
-  background-color: #110B11;
+  background-color: #07020D;
 }
 
 blockquote {
-  border-left: 3px solid #5B9279;
+  border-left: 3px solid #4B8161;
   padding-left: 1rem;
 }
