@@ -74,12 +74,14 @@ pre {
 a,
 a:visited {
   color: #4B8161;
+  text-decoration: none;
 }
 
 a:hover,
 a:focus,
 a:active {
   color: #4B8161;
+  text-decoration: none;
 }
 
 .retro-no-decoration {
